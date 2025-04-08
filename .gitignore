@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+.env
+.DS_Store
+.venv/
+venv/
+env/
+departamentos_simplificado.geojson
