@@ -9,3 +9,5 @@ geopandas==0.14.1
 numpy==1.26.3
 python-dateutil==2.8.2
 gunicorn
+fiona==1.9.5
+GDAL==3.6.4
